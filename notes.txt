@@ -1,0 +1,4 @@
+1.更改ll的颜色高亮显示：
+vim ~/.bash_profile
+alias ll=“ls -alG”
+source ~/.bash_profile
